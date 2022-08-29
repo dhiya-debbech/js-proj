@@ -1,0 +1,18 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+main{
+    background-color: rgb(124, 76, 76);
+}
+#test{
+    display: flex;
+    gap: 30px;
+}
+
+#prix_T{
+    color: black;
+    background-color: aqua;
+}
+
+
